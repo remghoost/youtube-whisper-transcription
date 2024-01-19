@@ -1,0 +1,8 @@
+/.venv
+/temp/temp.wav
+whisper-realtime-reference.py
+*.txt
+*.webm
+!requirements.txt
+/.youtube-dl
+output/*
